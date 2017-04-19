@@ -163,7 +163,7 @@
       <Culture>0x0406</Culture>
     </ResourceCompile>
     <Link>
-      <OutputFile>../bin/ListDemo_d.exe</OutputFile>
+      <OutputFile>../bin/ListDemo.exe</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <ProgramDatabaseFile>.\Debug/ListDemo.pdb</ProgramDatabaseFile>
